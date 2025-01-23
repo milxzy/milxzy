@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/milxzy" target="blank"><img src="https://img.shields.io/twitter/follow/milxzy?logo=twitter&style=for-the-badge" alt="milxzy" /></a> </p>
 
-- 🔭 I’m currently working on [Melody Match](https://github.com/milxzy/Melody-Match)
+- 🔭 I’m currently working on [Melody Match](https://github.com/milxzy/MelodyMatch)
 
-- 🌱 I’m currently learning **.NET and PHP**
+- 🌱 I’m currently learning **Angular and C**
 
-- 📝 I regularly write articles on [https://dev.to/milx](https://dev.to/milx)
+- 📝 I  write articles on [https://dev.to/milx](https://dev.to/milx)
 
 - 💬 Ask me about **React or Vim**
 

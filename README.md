@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello World, I'm Miles Collins</h1>
-<h3 align="center">Full Stack Engineer | Code Enthusiast | Vim Aficionado</h3>
+<h1 align="center">👋 Oh Hey There, I'm Miles Collins</h1>
+<h3 align="center">Code Monkey by Day, Content Creator by Night, Coffee Addict 24/7</h3>
 
 <div align="center">
   <a href="https://twitter.com/milxzy" target="blank">
@@ -18,29 +18,44 @@
 <div align="center">
   
 
+// The only object with no bugs in my entire codebase
 const miles = {
   currentProject: "Melody Match",
-  learning: ["Angular", "C"],
-  askMeAbout: ["React", "Vim", "JavaScript", "Web Development"],
-  contact: "milescollins9@gmail.com"
+  learning: ["Angular", "C", "How to keep plants alive"],
+  askMeAbout: ["React", "Vim", "Why tabs > spaces", "My YouTube fails"],
+  contact: "milescollins9@gmail.com",
+  redBullCount: Infinity
 };
 
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milxzy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Miles' Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milxzy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Miles' Most Used Languages (and time spent on Stack Overflow)" />
 </div>
 
-<h2 align="center">💻 Current Focus</h2>
+<h2 align="center">💻 What I'm Up To When I Should Be Sleeping</h2>
  
 <div align="center">
-  <p>🎵 Working on <a href="https://github.com/milxzy/MelodyMatch">Melody Match</a></p>
-  <p>📚 Learning Angular and C programming</p>
-  <p>✍️ Writing technical articles on <a href="https://dev.to/milx">dev.to/milx</a></p>
+  <p>🎵 Building <a href="https://github.com/milxzy/MelodyMatch">Melody Match</a> (like Tinder, but for music... less ghosting, more boasting)</p>
+  <p>📚 Learning Angular and C (because JavaScript wasn't painful enough)</p>
+  <p>✍️ Writing hopefully helpful articles at <a href="https://dev.to/milx">dev.to/milx</a> (while pretending I know what I'm talking about)</p>
 </div>
- 
-<h2 align="center">🛠️ Tech Stack</h2>
+
+<h2 align="center">🎬 Content Creator Extraordinaire</h2>
+
+<div align="center">
+  <p>When I'm not busy creating infinite loops or debugging my way through life, I'm making content that approximately 3 people watch:</p>
+  
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />&nbsp;
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />&nbsp;
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />&nbsp;
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  
+  <p>I mostly talk about code, occasionally drop a beat, and sometimes just stare at the camera wondering where my semicolon went.</p>
+</div>
+
+<h2 align="center">🛠️ Tech Stack (or "Things I Stack Overflow")</h2>
 
 <div align="center">
   <!-- Frontend -->
@@ -58,7 +73,22 @@ const miles = {
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br/>
+  
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />&nbsp;
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <br/>
+  
+  <!-- Creative Tools -->
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" />&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />&nbsp;
+  <img src="https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=ableton-live&logoColor=white" alt="Ableton" />&nbsp;
+  <img src="https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Logic Pro" />
   <br/>
   
   <!-- Tools -->
@@ -68,18 +98,18 @@ const miles = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-<h2 align="center">📝 Latest Blog Posts</h2>
+<h2 align="center">📝 Blog Posts (that my mom reads)</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%98%89%20Fun%20Fact-I%20prefer%20Vim%20to%20Emacs-blue?style=for-the-badge" alt="Fun Fact" />
+  <img src="https://img.shields.io/badge/%F0%9F%98%89%20Fun%20Fact-I%20prefer%20Vim%20because%20I%20could%20never%20figure%20out%20how%20to%20exit%20Emacs-blue?style=for-the-badge" alt="Fun Fact" />
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
-  <p><i>⚠️ <b>DISCLAIMER:</b> Any opinions, coding disasters, or sarcastic comments about tabs vs. spaces are entirely my own and do not reflect the views of my employers, sponsors, or the poor souls who have to review my pull requests. Use my code at your own risk—side effects may include spontaneous debugging sessions and occasional fits of laughter.</i></p>
+  <p><i>⚠️ <b>EXTREMELY IMPORTANT DISCLAIMER:</b> Any opinions, brilliant code, terrible jokes, or strong feelings about the Oxford comma expressed here are entirely my own and should not be blamed on my employers, sponsors, or the poor souls who follow me on social media. If any of my code causes your computer to start a robot uprising, I was probably just trying a new npm package. Side effects of using my code may include: spontaneous debugging sessions, keyboard facepalms, and an irrational desire to learn yet another JavaScript framework.</i></p>
 </div>

@@ -20,6 +20,8 @@
 
 The only object with no bugs in my entire codebase
 
+<pre>
+<code>
 const miles = {
   currentProject: "Melody Match",
   learning: ["Angular", "C", "How to keep plants alive"],
@@ -27,6 +29,8 @@ const miles = {
   contact: "milescollins9@gmail.com",
   redBullCount: Infinity
 };
+</code>
+</pre>
 
   
 </div>

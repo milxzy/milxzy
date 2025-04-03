@@ -18,7 +18,8 @@
 <div align="center">
   
 
-// The only object with no bugs in my entire codebase
+The only object with no bugs in my entire codebase
+
 const miles = {
   currentProject: "Melody Match",
   learning: ["Angular", "C", "How to keep plants alive"],

@@ -52,7 +52,7 @@ const miles = {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />&nbsp;
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   
-  <p>I mostly talk about code, occasionally drop a beat, and sometimes just stare at the camera wondering where my semicolon went.</p>
+  <p>I mostly talk about code, occasionally play a game, and sometimes just stare at the camera wondering where my semicolon went.</p>
 </div>
 
 <h2 align="center">🛠️ Tech Stack (or "Things I Stack Overflow")</h2>
@@ -98,7 +98,7 @@ const miles = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-<h2 align="center">📝 Blog Posts (that my mom reads)</h2>
+<h2 align="center">📝 Blog Posts (that my girlfriend reads)</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

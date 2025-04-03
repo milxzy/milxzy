@@ -1,5 +1,5 @@
 <h1 align="center">👋 Oh Hey There, I'm Miles Collins</h1>
-<h3 align="center">Code Monkey by Day, Content Creator by Night, Coffee Addict 24/7</h3>
+<h3 align="center">Code Monkey by Day, Content Creator by Night, Red Bull Addict 24/7</h3>
 
 <div align="center">
   <a href="https://twitter.com/milxzy" target="blank">

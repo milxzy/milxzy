@@ -51,12 +51,23 @@ const miles = {
 
 <div align="center">
   <p>When I'm not busy creating infinite loops or debugging my way through life, I'm making content that approximately 3 people watch:</p>
-  
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />&nbsp;
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />&nbsp;
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />&nbsp;
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  
+
+  <a href="https://www.youtube.com/@milxzy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>&nbsp;
+
+  <a href="https://www.twitch.tv/milxzy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>&nbsp;
+
+  <a href="https://www.instagram.com/twitchmilxzy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+
+  <a href="https://www.tiktok.com/@.milxzy" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+
   <p>I mostly talk about code, occasionally play a game, and sometimes just stare at the camera wondering where my semicolon went.</p>
 </div>
 

@@ -50,6 +50,7 @@ const miles = {
 <h2 align="center">🎬 Content Creator Extraordinaire</h2>
 
 <div align="center">
+  <p>Disclaimer: I wiped my social medias after experiencing family tragedy. I needed space to heal and reset. Grief doesn’t always make noise, sometimes it just cleans the slate </p>
   <p>When I'm not busy creating infinite loops or debugging my way through life, I'm making content that approximately 3 people watch:</p>
 
   <a href="https://www.youtube.com/@milxzy" target="_blank">

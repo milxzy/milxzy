@@ -67,6 +67,9 @@ const miles = {
   <a href="https://www.tiktok.com/@.milxzy" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
+  <a href="https://x.com/milxzy" target="_blank">
+   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+  </a>
 
   <p>I mostly talk about code, occasionally play a game, and sometimes just stare at the camera wondering where my semicolon went.</p>
 </div>
